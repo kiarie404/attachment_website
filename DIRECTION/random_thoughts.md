@@ -40,3 +40,10 @@
 - ptsd
 - contribute
 - recomendations
+
+
+#### Menu
+- student
+- Lecturer
+- About
+- Common Room

@@ -12,4 +12,6 @@ It does this by:
    - signature integrity
 
    
-3. Ideas on where/how to get attachment?🤷🏾
+3. Giving direction to students on the internship search?🤷🏾
+   - Where and when to apply.
+   - Getting recommendations.
