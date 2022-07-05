@@ -14,6 +14,14 @@ Lecturer Needs:
 3. View the logbook progress of each student anytime.
 4. View Learning map pf any student.
 
+Industrial supervisor needs:
+1. Forms over documents.
+2. If documents get used, they should be online and templated.
+3. View attachees task outlines
+4. Be able to edit learning Map.
+5. Be able to comment on attachees tasks and conduct.
+6. Be able to send private reviews to Lecturer in charge.
+
 
 To meet the above needs, here are the respective features :
 
