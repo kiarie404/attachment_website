@@ -14,6 +14,15 @@
   - explore.
 - f*d
 
+#### Integrity check
+- dates can be checked by git/github
+- Supervisor's remark entries are verifyible. Gitub editor
+- Supervisor's approval needs no physical signature.(people working remote, paperwork)
+- Supervisor approves the whole logbook as a whole, that they have seen the whole thing online
+
+#### Backup
+- One-way Double backup to student's google drive (2 seperate folders) and pseudo github fork.
+
 
 #### Take care of paperwork.
  - paperwork to the supervisor.
@@ -41,9 +50,18 @@
 - contribute
 - recomendations
 
+#### benefits
+- Integrity
+- More portable. than papers
+- Better for remote students
+- Better for busy supervisor
+- Can be viewed any time by Supervisor or Student or Assessor
+- Can be viewed by furure Students
 
 #### Menu
 - student
 - Lecturer
 - About
 - Common Room
+
+* interface wit google docs? - convert to md??
