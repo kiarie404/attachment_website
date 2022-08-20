@@ -23,20 +23,23 @@
 2. Get Internship suggestions and path advice. 
 3. Get Internship connections/recommendations.
 4. Get all paperwork to be fully templated. { from Internship search to End year submissions}
+5. If you still need physical papers signed, you can have the Final simplified template 
 
 ##### Lecturer Needs
 1. Manage designated attachees from one place.
 2. View all students CVs, Job-status and contact info --- in case they got a job somewhere to offer
 3. View the logbook progress of each student anytime.
 4. View Learning map pf any student.
+5. Lecture can Archive the student's logbook
+6. One-way Double Backups 
 
 ##### Industrial supervisor needs
 1. Forms over documents.
 2. If documents get used, they should be online and templated.
 3. View attachees task outlines
 4. Be able to edit learning Map.
-5. Be able to comment on attachees tasks and conduct.
-6. Be able to send private reviews to Lecturer in charge.
+5. Be able to comment on attachees tasks and conduct. (weekly, overall, daily... anys)
+6. Be able to send private reviews to Lecturer in charge. (encrypted. only the Assessor and Co-ordinator can view them)
 
 
 #### 2. Maintainability
