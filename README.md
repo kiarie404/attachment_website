@@ -1,5 +1,5 @@
 # attachment_website
-The sole purpose of this application is to make CSC 331 more smooth on both lecturers and students.\
+The sole purpose of this guide is to make CSC 331 more smooth on both lecturers and students.\
 but mostly the students. 😅.\
 It is a work in progress. Open to any kind of contribution.
 
