@@ -19,7 +19,7 @@ Its intended users are :
 2. Increasing integrity checks. (for lecturers)
 
 ##### Why paperwork is not OK
-1. Papers are no the best things to use when writing content that needs frequent editing. Editing means you have to re-print and re-scan a document.
+1. Papers are not the best things to use when writing content that needs frequent editing. Editing means you have to re-print and re-scan a document.
 2. Papers are not portable. An online e-book is more portable.
-3. Papers do not produce interactive environments for the reader. For example: you can't include links, themes or interactive menus. 
+3. Papers do not provide an interactive environment for the reader. For example: you can't include links, themes or interactive menus. 
 
