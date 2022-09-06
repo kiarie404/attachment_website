@@ -1,17 +1,25 @@
 # attachment_website
 The sole purpose of this application is to make CSC 331 more smooth on both lecturers and students.\
-but mostly the students. 😅.
+but mostly the students. 😅.\
+It is a work in progress. Open to any kind of contribution.
 
-It does this by:
+Its intended users are :
+1. CSC 331 students.
+2. Lecturers.
+3. Industrial supervisors.
+
+
+#### Functionalities
+1. Students can create and edit an e-logbook. No more physical logbooks.
+2. Lecturers can view the e-logbook of any student at their own convenience. (e-logbook can be accessed online)
+3. The industrial supervisor can view the logbook, make comments and approve logbook.
+
+#### Benefits
 1. Reducing paperwork. (for students and lecturers)
-   - automatic papers. (submission and storage)
-   - journaling through mdbooks instead of log book
-
 2. Increasing integrity checks. (for lecturers)
-   - date integrity via github upload records.
-   - signature integrity
 
-   
-3. Giving direction to students on the internship search?🤷🏾
-   - Where and when to apply.
-   - Getting recommendations.
+##### Why paperwork is not OK
+1. Papers are no the best things to use when writing content that needs frequent editing. Editing means you have to re-print and re-scan a document.
+2. Papers are not portable. An online e-book is more portable.
+3. Papers do not produce interactive environments for the reader. For example: you can't include links, themes or interactive menus. 
+
