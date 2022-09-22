@@ -1,16 +1,18 @@
 
-- [Main Design Goals](#main-design-goals)
-  - [1. Accomodate needs](#1-accomodate-needs)
-  - [Needs to be met.](#needs-to-be-met)
-    - [Student needs](#student-needs)
-    - [Lecturer Needs](#lecturer-needs)
-    - [Industrial supervisor needs](#industrial-supervisor-needs)
-  - [2. Maintainability](#2-maintainability)
-  - [3. User-friendly](#3-user-friendly)
-- [Side Quest line](#side-quest-line)
+This is the intended direction of whatever this is. Changes will happen.\
+The end goal is to build a CSC 331 platform.\
+So we have :
+1. [Immediate design goals](#immediate-design-goals)
+2. [Future design goals](#future-design-goals)
 
 
-### Main Design Goals
+### Immediate Design Goals
+- [ ] make documentation platform
+- [ ] make discussion channel
+- [ ] create front-end website
+- [ ] make students to have the ability to clone a journal
+- [ ] 
+### Future Design Goals
 
 #### 1. Accomodate needs
 - Students' needs
@@ -19,11 +21,11 @@
 
 #### Needs to be met.
 ##### Student needs
-1. Get Internship class info in one place.
-2. Get Internship suggestions and path advice. 
-3. Get Internship connections/recommendations.
-4. Get all paperwork to be fully templated. { from Internship search to End year submissions}
-5. If you still need physical papers signed, you can have the Final simplified template 
+1. Get all paperwork to be fully templated. { from Internship search to End year submissions}
+2. If you still need physical papers signed, you can have the Final simplified template 
+3. Get Internship class info in one place.
+4. Get Internship suggestions and path advice. 
+5. Get Internship connections/recommendations.
 
 ##### Lecturer Needs
 1. Manage designated attachees from one place.
